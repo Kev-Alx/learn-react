@@ -1,0 +1,30 @@
+.form Button {
+  margin-bottom: 1rem;
+}
+
+.form label {
+  display: block;
+  font-size: 1.2rem;
+}
+
+.form input {
+  width: 50%;
+  display: block;
+  padding: 0.4rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.form input:focus {
+  background-color: #f1f6f9;
+  border-color: #9ba4b5;
+}
+
+.form p {
+  color: rgb(255, 72, 72);
+  font-weight: bold;
+}
+
+.invalid {
+  background-color: #ffc6c6;
+  border-color: rgb(255, 126, 126);
+}

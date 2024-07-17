@@ -1,0 +1,13 @@
+.quiz-list {
+  border: 2px solid rgba(0, 0, 0, 0.715);
+  padding: 1rem;
+  border-radius: 4px;
+  width: max-content;
+}
+
+.quiz-list li {
+  font-size: 1.25rem;
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+}

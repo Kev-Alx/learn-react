@@ -1,0 +1,11 @@
+.btn {
+  background-color: #212a3e;
+  color: #f1f6f9;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.btn[disabled] {
+  background-color: #5e636b;
+}

@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  font-family: sans-serif;
+}
+body {
+  height: 100vh;
+  margin: 0;
+  background-color: rgb(46, 48, 48);
+  padding-block: 12.5vh;
+}
+.not-found {
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  text-transform: capitalize;
+}
+.mid {
+  display: flex;
+  flex-direction: column;
+  width: 55%;
+  margin: auto;
+}

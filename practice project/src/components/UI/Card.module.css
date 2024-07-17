@@ -1,0 +1,10 @@
+.card {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 2rem;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+.card.no-pad {
+  padding: 0;
+}

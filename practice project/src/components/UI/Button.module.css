@@ -1,0 +1,8 @@
+.btn {
+  background-color: gold;
+  border: none;
+  padding: 0.75rem;
+}
+.btn:hover {
+  background-color: rgb(237, 205, 25);
+}

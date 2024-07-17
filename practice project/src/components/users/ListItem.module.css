@@ -1,0 +1,8 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 3px;
+  border: 1px solid rgb(54, 53, 53);
+  margin-block: 0.35rem;
+  padding-inline: 0.5rem;
+}
